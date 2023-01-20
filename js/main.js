@@ -15,3 +15,4 @@ const handleCurrentYear = () => {
 handleCurrentYear()
 
 navBtn.addEventListener('click' , handleNav)
+
