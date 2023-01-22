@@ -1,5 +1,9 @@
 @use 'colors' as color;
 
+.stop-scrool {
+	overflow: hidden;
+}
+
 h1.company-name {
 	margin-bottom: 0.5em;
 	font-size: 3rem;
