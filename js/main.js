@@ -18,6 +18,8 @@ const handleNav = params => {
 	})
 }
 
+
+
 const handleCurrentYear = () => {
 	const year = new Date().getFullYear()
 	footerYear.textContent = year
